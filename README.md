@@ -17,6 +17,7 @@ Open-source projects built with or on top of libghostty.
 - [Mux](https://github.com/coder/mux) - Desktop and browser app for isolated, parallel agentic development.
 - [Ghostree](https://github.com/sidequery/ghostree) - A fork of Ghostty with native support for git worktree & AI agents.
 - [cmux](https://github.com/manaflow-ai/cmux) - A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents.
+- [Restty](https://github.com/wiedymi/restty) - A lightweight web terminal library powered by libghostty-vt, WebGPU, and text-shaper, with xterm.js API compatibility.
 - [Spectty](https://github.com/ocnc/spectty) - A fast native SSH & Mosh terminal for iOS.
 
 ## Integrations
