@@ -20,6 +20,7 @@ Open-source projects built with or on top of libghostty.
 - [Restty](https://github.com/wiedymi/restty) - A lightweight web terminal library powered by libghostty-vt, WebGPU, and text-shaper, with xterm.js API compatibility.
 - [Spectty](https://github.com/ocnc/spectty) - A fast native SSH & Mosh terminal for iOS.
 - [Supacode](https://github.com/supabitapp/supacode) - An open-source native macOS command center for running coding agents in parallel, powered by libghostty.
+- [Zmx](https://github.com/neurosnap/zmx) - Session persistence for terminal processes, using libghostty-vt for terminal state restore.
 
 ## Integrations
 
